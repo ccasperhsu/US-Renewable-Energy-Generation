@@ -4,7 +4,6 @@
 - [Key Takeaways](#key-takeaways)
 
 
-
 # US Renewable Energy Generation Mix 1990 - 2024
 
 This interactive dashboard is viewable on Tableau Public: [US Electricity Generation Mix 1990 - 2024](https://public.tableau.com/app/profile/casper.hsu/viz/copy_17638335912670/Dashboard2#1)
@@ -25,12 +24,11 @@ This interactive dashboard is viewable on Tableau Public: [US Electricity Genera
 
 
 ## Key Takeaways
-- Between 2010 and 2020, the percentage of total electricity generated from renewables in the US grew almost 10% from 10.23% to 19.39%. 
-- Texas overtook California in the year 2020 as the largest producer for electricity generated from renewable sources.
-- While Texas has the highest green electricity generated, California’s generation mix contains 20% more green energy relative to Texas in 2024. 
+- Between 2010 and 2020, the percentage of total electricity generated from renewables in the US grew almost 10% from 10.36% to 19.53%. 
+- Texas overtook California in the year 2020 as the largest producer for electricity generated from renewable sources, though California’s generation mix contains 20% more green energy relatively in 2024. 
 - Solar (thermal and PV panels) and wind generation have exhibited the quickest growth in recent years, with wind generation outpacing conventional hydroelectric in 2019.
 - Vermont produced almost 100% of its electricity from renewables in 2024.
 
-The progress made towards combating climate change is intimately tied to the policies set on the federal level. While the Biden administration constructed ambitious goals, such as reaching net zero emissions by 2050, tripling clean energy infrastructure investment, and scaling up international climate finance, the current administration has aggressively repealed related efforts, with the most notable action being the withdrawal from the Paris Agreement’s 1.5°C temperature limit.
+This progress reflects broader policy choices at the federal level. While past administrations set ambitious clean-energy and emissions-reduction targets, the long-term transition will depend on consistent support for renewables — especially as electricity demand rises sharply.
 
 
