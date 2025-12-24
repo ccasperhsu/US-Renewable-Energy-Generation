@@ -19,7 +19,7 @@ This interactive dashboard is viewable on Tableau Public: [US Electricity Genera
 
 ## Data
 
-  The Energy Information Administration (EIA) published the data used in this dashboard that includes net generation by State, by type of producer, and by energy Source from 1990 to 2024. EIA also publishes a high level aggregation for each of the primary source from 1950 to 2023 in its [Generation By Major Source Data](https://www.eia.gov/energyexplained/electricity/charts/generation-major-source.csv) that can be a source to quickly cross reference. The Excel file in this repository was downloaded from EIA's [Historical State Data](https://www.eia.gov/electricity/data/state/ 
+  The Energy Information Administration (EIA) published the data used in this dashboard that includes net generation by State, by type of producer, and by energy Source from 1990 to 2024. EIA also publishes a high level aggregation for each of the primary source from 1950 to 2023 in its [Generation By Major Source Data](https://www.eia.gov/energyexplained/electricity/charts/generation-major-source.csv) that can be quickly cross referenced. The Excel file in this repository was downloaded from EIA's [Historical State Data](https://www.eia.gov/electricity/data/state/ 
 ) site, under *EIA-923 Power Plant Operations Report*. The Tableau dashboard used a subset of the dataset that excluded producer details. The following table is a list of all generation sources, and the sources counted towards “renewables” are highlighted in green. 
 
 <img width="346" height="436" alt="image" src="https://github.com/user-attachments/assets/9189a1f7-3b2a-4c2b-b643-676d4d2bf93c" />
