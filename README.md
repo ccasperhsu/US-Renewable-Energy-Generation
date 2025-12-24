@@ -6,6 +6,8 @@
 
 # US Renewable Energy Generation Mix 1990 - 2024
 
+<img width="672" height="511" alt="image" src="https://github.com/user-attachments/assets/45f1fa41-3467-499f-b083-c0805e3cba4a" />
+
 This interactive dashboard is viewable on Tableau Public: [US Electricity Generation Mix 1990 - 2024](https://public.tableau.com/app/profile/casper.hsu/viz/copy_17638335912670/Dashboard2#1)
 
 ## Introduction
