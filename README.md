@@ -8,11 +8,11 @@
 
 <img width="672" height="511" alt="image" src="https://github.com/user-attachments/assets/cc657ccd-b6be-4af7-88a3-b490106ebd19" />
 
-View this interactive dashboard on Tableau Public: [US Electricity Generation Mix 1990 - 2024](https://public.tableau.com/app/profile/casper.hsu/viz/copy_17638335912670/Dashboard2#1)
+**View this interactive dashboard on Tableau Public: [US Electricity Generation Mix 1990 - 2024](https://public.tableau.com/app/profile/casper.hsu/viz/copy_17638335912670/Dashboard2#1)**
 
 ## Introduction
 
-  In the project [US Electric Grid Outages](https://github.com/ccasperhsu/US-Electric-Grid-Outages), the data shows that worsening climate change combined with aging energy infrastructure has led to increasingly severe power outages in recent years. Because carbon reduction is widely viewed as a key strategy for mitigating global warming, many nations have prioritized electrifying appliances and replacing traditional power generation with carbon-free sources, particularly renewables.
+  In my [US Electric Grid Outages](https://github.com/ccasperhsu/US-Electric-Grid-Outages) project, the data shows that worsening climate change combined with aging energy infrastructure has led to increasingly severe power outages in recent years. Because carbon reduction is widely viewed as a key strategy for mitigating global warming, many nations have prioritized electrifying appliances and replacing traditional power generation with carbon-free sources, particularly renewables.
 
   With the production of electric vehicles and data centers on the rise, it is becoming more important to examine how well the existing generation is set up to meet the demand while keeping emissions in check. This dashboard examines how the United States has progressed in generating its electricity using renewable energy sources. The insights gained can help inform policy development, guide business planning, and influence household decision-making, among other applications.
 
